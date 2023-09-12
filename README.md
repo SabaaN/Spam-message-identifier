@@ -8,7 +8,6 @@ It is specifically designed for text classification tasks. The model is trained 
 
 The csv file can be downloaded from here: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
-Note: The spam message identifier is not 100% foolproof. It is recommended to use it as an aid and exercise caution while dealing with unsolicited or suspicious messages.
 
 ## LICENSE
 
