@@ -1,4 +1,4 @@
-# Spam message Detect
+# Spam message Detection
 This project aims to develop a machine learning model that can accurately identify spam messages. It utilizes Natural Language Processing (NLP) techniques and EDA to analyze and classify text messages as either spam or non-spam (ham).
 
 The dataset used for training and evaluation consists of labeled text messages, where each message is annotated as spam or ham. The dataset is preprocessed to remove any irrelevant information and prepared for training the machine learning model.
