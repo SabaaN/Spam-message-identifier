@@ -11,4 +11,4 @@ The csv file can be downloaded from here: https://www.kaggle.com/datasets/uciml/
 
 ## LICENSE
 
-This project is distributed under MIT license
+This project is distributed under MIT license.
